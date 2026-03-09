@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "356489691704",
+    "firebase_url": "https://gomokutest-37520-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gomokutest-37520",
+    "storage_bucket": "gomokutest-37520.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356489691704:android:f3b8b54c9f125134211ccd",
+        "android_client_info": {
+          "package_name": "com.dougsden.GomokuFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EWW7P4APr-th78h825jur973NWcYa80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
